@@ -1,11 +1,11 @@
-[04:28:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[04:28:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-29-master@be886cf (2024-11-15T09:07:14Z) for Minecraft 1.21.3
-[04:28:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:28:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[04:28:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[04:30:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[04:30:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-29-master@be886cf (2024-11-15T09:07:14Z) for Minecraft 1.21.3
+[04:30:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:30:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[04:30:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - AngelChest (13.9.0), Geyser-Spigot (2.5.1-SNAPSHOT), RealRegions (0.7.4), SkinsRestorer (15.5.1), ViaVersion (5.2.0), WorldEdit (7.3.9-beta-01+e8aa544), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[04:28:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:28:58] [ServerMain/ERROR]: Failed to start the minecraft server
+[04:30:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:30:21] [ServerMain/ERROR]: Failed to start the minecraft server
 net.minecraft.util.DirectoryLock$LockException: /workspaces/server-papus-maincra-msx-4/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
 	at net.minecraft.util.DirectoryLock$LockException.alreadyLocked(DirectoryLock.java:100) ~[paper-1.21.3.jar:1.21.3-29-be886cf]
 	at net.minecraft.util.DirectoryLock.create(DirectoryLock.java:30) ~[paper-1.21.3.jar:1.21.3-29-be886cf]
