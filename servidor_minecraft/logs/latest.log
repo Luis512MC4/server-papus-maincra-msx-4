@@ -190,3 +190,10 @@
 [01:50:24] [Server thread/INFO]: Luis512MC issued server command: /realregions
 [02:19:37] [Server thread/WARN]: Luis512MC moved too quickly! -10.141100003894508,-0.604424101326714,-0.14421884284149655
 [02:36:42] [Server thread/INFO]: Luis512MC has made the advancement [Light as a Rabbit]
+[02:38:20] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:38:20] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:38:36] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:38:36] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:46:41] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[02:46:41] [Server thread/INFO]: Luis512MC left the game
+[02:47:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
