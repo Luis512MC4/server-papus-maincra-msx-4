@@ -177,3 +177,13 @@
 [01:16:08] [User Authenticator #3/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [01:16:13] [Server thread/INFO]: Luis512MC joined the game
 [01:16:13] [Server thread/INFO]: Luis512MC[/127.247.198.178:48601] logged in with entity id 3211 at ([world]1704.953083880811, 128.0, -693.9928812987151)
+[01:21:06] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[01:21:06] [Server thread/INFO]: Luis512MC left the game
+[01:21:33] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[01:21:35] [Server thread/INFO]: Luis512MC joined the game
+[01:21:35] [Server thread/INFO]: Luis512MC[/127.247.198.178:41127] logged in with entity id 4445 at ([world]1718.5, 113.76275583028124, -517.1127558302812)
+[01:22:11] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[01:22:11] [Server thread/INFO]: Luis512MC left the game
+[01:22:28] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[01:22:31] [Server thread/INFO]: Luis512MC joined the game
+[01:22:31] [Server thread/INFO]: Luis512MC[/127.247.198.178:42665] logged in with entity id 4713 at ([world]1693.5423264866783, 117.0, -561.5448537993776)
