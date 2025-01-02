@@ -207,3 +207,5 @@
 [02:59:48] [Server thread/INFO]: Luis512MC[/127.247.198.178:59887] logged in with entity id 18654 at ([world]1682.67764375886, 121.45744062351868, -652.3938945352678)
 [03:03:02] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
 [03:03:02] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:09:57] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:09:57] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
