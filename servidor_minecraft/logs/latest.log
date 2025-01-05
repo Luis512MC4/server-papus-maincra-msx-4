@@ -283,3 +283,7 @@
 [01:56:01] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
 [01:56:01] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
 [01:56:01] [Server thread/INFO]: .Dayanefer188 left the game
+[02:40:13] [Server thread/WARN]: Luis512MC moved too quickly! 0.15052433750724958,0.25799910351527444,-10.169692095586356
+[02:42:35] [Server thread/WARN]: Luis512MC moved too quickly! 11.035152119948862,-1.1661092609382138,0.8265529422753843
+[02:44:10] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[02:44:10] [Server thread/INFO]: Luis512MC left the game
