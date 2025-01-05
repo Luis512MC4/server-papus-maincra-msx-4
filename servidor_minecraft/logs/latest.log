@@ -216,3 +216,70 @@
 [01:43:30] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [01:43:36] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
 [01:43:36] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[01:43:48] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[01:43:48] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[01:44:04] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[01:44:04] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[01:44:25] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[01:44:25] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[01:44:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Dayanefer188
+[01:44:26] [localSession-7-3/INFO]: [Geyser-Spigot] Dayanefer188 (logged in as: Dayanefer188) has connected to the Java server
+[01:44:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 joined (UUID: 00000000-0000-0000-0009-01f0a3137115)
+[01:44:26] [Server thread/INFO]: .Dayanefer188 joined the game
+[01:44:26] [Server thread/INFO]: .Dayanefer188[/127.0.0.1:0] logged in with entity id 28498 at ([world]570.69999, 63.0, -543.82153)
+[01:45:28] [Async Chat Thread - #30/INFO]: [Not Secure] <.Dayanefer188> dio mioo
+[01:45:32] [Server thread/INFO]: Luis512MC burned to death
+[01:45:36] [Server thread/INFO]: Luis512MC issued server command: /acfetch 1
+[01:45:38] [Async Chat Thread - #30/INFO]: [Not Secure] <.Dayanefer188> i
+[01:45:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> muerte tactica
+[01:46:03] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> para llegar mas rapido a mi rancho
+[01:46:12] [Async Chat Thread - #30/INFO]: [Not Secure] <.Dayanefer188> juemadre
+[01:46:26] [Server thread/INFO]: Luis512MC issued server command: /tp .Dayanefer188 Luis512MC
+[01:46:26] [Server thread/INFO]: [Luis512MC: Teleported .Dayanefer188 to Luis512MC]
+[01:46:49] [Async Chat Thread - #30/INFO]: [Not Secure] <.Dayanefer188> omaga
+[01:46:54] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> es la casa pequeña
+[01:47:09] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> todavia no la acabamos
+[01:47:37] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> sube
+[01:47:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Luis512MC> xd
+[01:48:12] [Async Chat Thread - #31/INFO]: [Not Secure] <.Dayanefer188> ay se fue tilin
+[01:48:26] [Async Chat Thread - #31/INFO]: [Not Secure] <.Dayanefer188> recuerdos
+[01:48:37] [Async Chat Thread - #31/INFO]: [Not Secure] <Luis512MC> intenta subirte a ese
+[01:48:39] [Async Chat Thread - #31/INFO]: [Not Secure] <Luis512MC> nooooooooo
+[01:48:42] [Async Chat Thread - #31/INFO]: [Not Secure] <Luis512MC> un negro
+[01:48:47] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[01:48:47] [localSession-7-3/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client timed out
+[01:48:47] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[01:48:47] [Server thread/INFO]: .Dayanefer188 left the game
+[01:49:40] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Dayanefer188
+[01:49:40] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 (logged in as: Dayanefer188) has connected to the Java server
+[01:49:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 joined (UUID: 00000000-0000-0000-0009-01f0a3137115)
+[01:49:40] [Server thread/INFO]: .Dayanefer188 joined the game
+[01:49:40] [Server thread/INFO]: .Dayanefer188[/127.0.0.1:0] logged in with entity id 29858 at ([world]1717.8396, 84.0, -349.34598)
+[01:49:47] [Async Chat Thread - #32/INFO]: [Not Secure] <Luis512MC> dale al boton
+[01:49:56] [Async Chat Thread - #32/INFO]: [Not Secure] <Luis512MC> e intenta subir a un carrito
+[01:50:52] [Async Chat Thread - #32/INFO]: [Not Secure] <.Dayanefer188> dio mioo
+[01:51:49] [Server thread/WARN]: .Dayanefer188 moved too quickly! -10.0,0.5510199999999941,32.480029990463265
+[01:52:25] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> ay
+[01:52:29] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> esto se ve raro
+[01:52:37] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> juemadre qpd
+[01:53:03] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> pone el carrito y subite
+[01:53:07] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> wtf
+[01:53:36] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> qpd
+[01:53:41] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> carajo
+[01:53:43] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> ya movete
+[01:53:46] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> haz algo
+[01:54:16] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> movete
+[01:54:18] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> carajo
+[01:55:13] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> fallos tercermundistas.
+[01:55:25] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> ya me di cuentas
+[01:55:26] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> xd
+[01:55:35] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> carajo movete
+[01:55:39] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> muack
+[01:55:41] [Async Chat Thread - #35/INFO]: [Not Secure] <.Dayanefer188> nnmsss
+[01:55:48] [Async Chat Thread - #35/INFO]: [Not Secure] <Luis512MC> pos haz algo
+[01:55:58] [Async Chat Thread - #34/INFO]: [Not Secure] <.Dayanefer188> ns qpd
+[01:55:59] [Async Chat Thread - #34/INFO]: [Not Secure] <Luis512MC> *introduce emoji de llorandero*
+[01:56:01] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client disconnected
+[01:56:01] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[01:56:01] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[01:56:01] [Server thread/INFO]: .Dayanefer188 left the game
