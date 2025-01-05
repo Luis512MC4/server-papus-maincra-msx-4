@@ -81,3 +81,69 @@
 [00:52:23] [Server thread/INFO]: Luis512MC issued server command: /actp 1
 [00:52:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Luis512MC> xd
 [00:52:35] [Async Chat Thread - #8/INFO]: [Not Secure] <.Dayanefer188> wtf
+[00:54:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Luis512MC> llevate el bote xd
+[00:55:22] [Async Chat Thread - #10/INFO]: [Not Secure] <.Dayanefer188> pa donde ando con lag extrema
+[00:55:44] [localSession-7-3/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client timed out
+[00:55:44] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[00:55:44] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[00:55:44] [Server thread/INFO]: .Dayanefer188 left the game
+[00:57:34] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Dayanefer188
+[00:57:34] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 (logged in as: Dayanefer188) has connected to the Java server
+[00:57:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 joined (UUID: 00000000-0000-0000-0009-01f0a3137115)
+[00:57:35] [Server thread/INFO]: .Dayanefer188 joined the game
+[00:57:35] [Server thread/INFO]: .Dayanefer188[/127.0.0.1:0] logged in with entity id 20621 at ([world]207.01815795898438, 62.23747863769531, -207.6370391845703)
+[00:57:43] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.437042236328125
+[00:57:43] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.437042236328125
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.3547142291732257
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.5124138141341632
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.6814659381576007
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 0.8108482616312926
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.0000877635844176
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.1084062430925883
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.1851813595839076
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.40028450899797
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.5803550186415123
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.7528761555922188
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 1.9826553853578446
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 2.2535294087953446
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 2.5362747701234696
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 2.8277176412172196
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 3.0669681502204185
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 3.3519007818727573
+[00:57:51] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 3.6405055182008823
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 3.913461095431302
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 4.193200475314114
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 4.4095394304660545
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 4.6786129167941795
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 4.837345960627175
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 5.026138772708322
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 5.179693773569994
+[00:57:52] [Server thread/WARN]: Dark Oak Boat (vehicle of .Dayanefer188) moved wrongly! 5.3045824513885975
+[00:58:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> si quieres salte
+[00:58:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> y vuelve a entrar
+[00:58:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Luis512MC> y ya me lo llevo yoo
+[00:58:40] [localSession-7-4/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client disconnected
+[00:58:40] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[00:58:40] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[00:58:40] [Server thread/INFO]: .Dayanefer188 left the game
+[00:58:40] [Server thread/INFO]: Attempt to teleport removed player .Dayanefer188 restricted
+[00:59:16] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Dayanefer188
+[00:59:16] [localSession-7-1/INFO]: [Geyser-Spigot] Dayanefer188 (logged in as: Dayanefer188) has connected to the Java server
+[00:59:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 joined (UUID: 00000000-0000-0000-0009-01f0a3137115)
+[00:59:17] [Server thread/INFO]: .Dayanefer188 joined the game
+[00:59:17] [Server thread/INFO]: .Dayanefer188[/127.0.0.1:0] logged in with entity id 20778 at ([world]210.7616424560547, 62.23747863769531, -213.1999969482422)
+[00:59:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> entra
+[01:00:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> dale un click de dos segundos
+[01:00:46] [Async Chat Thread - #14/INFO]: [Not Secure] <Luis512MC> avanza un poco mas
+[01:00:56] [Async Chat Thread - #14/INFO]: [Not Secure] <.Dayanefer188> alv
+[01:01:07] [Async Chat Thread - #14/INFO]: [Not Secure] <.Dayanefer188> AA
+[01:01:11] [Async Chat Thread - #15/INFO]: [Not Secure] <Luis512MC> ???'?
+[01:01:15] [Async Chat Thread - #15/INFO]: [Not Secure] <.Dayanefer188> AA
+[01:01:25] [Async Chat Thread - #15/INFO]: [Not Secure] <.Dayanefer188> A
+[01:01:32] [Async Chat Thread - #15/INFO]: [Not Secure] <Luis512MC> lagazo epicardo
+[01:02:07] [Async Chat Thread - #15/INFO]: [Not Secure] <.Dayanefer188> puro movistar
+[01:02:13] [localSession-7-1/INFO]: [Geyser-Spigot] Dayanefer188 has disconnected from the Java server because of Bedrock client disconnected
+[01:02:13] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Dayanefer188 disconnected
+[01:02:13] [Server thread/INFO]: .Dayanefer188 lost connection: Disconnected
+[01:02:13] [Server thread/INFO]: .Dayanefer188 left the game
+[01:02:15] [Async Chat Thread - #15/INFO]: [Not Secure] <Luis512MC> dale click
