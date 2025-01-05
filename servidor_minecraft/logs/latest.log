@@ -159,3 +159,6 @@
 [06:02:18] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [06:02:24] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [06:02:24] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[06:11:52] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[06:11:52] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[06:13:23] [Server thread/INFO]: Luis512MC has made the advancement [Enchanter]
