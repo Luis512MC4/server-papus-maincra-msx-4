@@ -140,3 +140,9 @@
 [04:39:30] [Server thread/INFO]: Luis512MC[/127.247.198.178:56351] logged in with entity id 249 at ([world]1691.730122312708, 128.0, -692.6999999880791)
 [04:40:31] [Server thread/WARN]: Luis512MC moved too quickly! 9.572928117493348,3.0244240882136637,-0.2355148943729546
 [04:49:51] [Server thread/INFO]: Luis512MC issued server command: /realregions
+[04:56:01] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[04:56:01] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[04:56:03] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:56:03] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:56:04] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:56:04] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
