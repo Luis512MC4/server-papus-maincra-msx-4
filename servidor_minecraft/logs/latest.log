@@ -162,3 +162,20 @@
 [04:00:21] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [04:00:33] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
 [04:00:33] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:05:11] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:05:11] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:05:21] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:05:21] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:06:36] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:06:36] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:08:26] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:08:26] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:12:20] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:12:20] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[04:13:06] [Server thread/WARN]: Luis512MC moved too quickly! -5.302572819210354,0.5061351021062421,8.544901584865897
+[04:14:49] [Server thread/WARN]: Luis512MC moved wrongly!
+[04:15:48] [Server thread/WARN]: Luis512MC moved too quickly! -4.102158465524553,-2.7518640014090607,8.823310305611244
+[04:20:53] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[04:20:53] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[04:22:22] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[04:22:22] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
