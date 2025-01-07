@@ -128,3 +128,8 @@
 [01:52:07] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [01:52:07] [Server thread/INFO]: [AngelChest] ========================================================
 [01:53:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:01:54] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[02:01:57] [Server thread/INFO]: Luis512MC joined the game
+[02:01:57] [Server thread/INFO]: Luis512MC[/127.247.198.178:33597] logged in with entity id 12 at ([world_nether]157.74514486139827, 78.0, -193.96053613936735)
+[02:09:28] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:09:28] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
