@@ -165,3 +165,19 @@
 [02:51:20] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [02:51:45] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
 [02:51:45] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:55:26] [Server thread/WARN]: Luis512MC moved too quickly! -0.1600607678478525,-0.7421414341400236,10.933495095233098
+[02:55:50] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:bastion
+[02:55:56] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:bastion_remnant
+[02:55:56] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 19 ms
+[02:56:53] [Server thread/WARN]: Luis512MC moved too quickly! -10.900516336894029,0.604424101326714,-0.9746486132162602
+[03:00:17] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[03:00:17] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[03:01:22] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:01:22] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:01:25] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:01:25] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:01:33] [Server thread/WARN]: Luis512MC moved too quickly! 13.841005413958214,2.4232365407991807,-6.004177555044464
+[03:01:40] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:01:40] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:01:56] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:01:56] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
