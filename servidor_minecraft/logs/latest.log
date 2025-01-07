@@ -134,3 +134,14 @@
 [02:09:28] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
 [02:09:28] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
 [02:17:47] [Server thread/WARN]: Luis512MC moved too quickly! 16.378125158752255,8.437503000615727,-1.7448092289430406
+[02:22:48] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:22:48] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[02:32:50] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[02:32:50] [Server thread/INFO]: Luis512MC left the game
+[02:33:39] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[02:33:47] [Server thread/INFO]: Luis512MC joined the game
+[02:33:47] [Server thread/INFO]: Luis512MC[/127.247.198.178:44411] logged in with entity id 5369 at ([world_nether]23.30000001192093, 14.0, -303.83778483664685)
+[02:35:28] [Server thread/INFO]: Luis512MC issued server command: /gamemode creative
+[02:35:28] [Server thread/INFO]: [Luis512MC: Set own game mode to Creative Mode]
+[02:36:13] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[02:36:13] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
