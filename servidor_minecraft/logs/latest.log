@@ -181,3 +181,19 @@
 [03:01:40] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
 [03:01:56] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
 [03:01:56] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:02:14] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:02:14] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:02:33] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:02:33] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:04:52] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:bastion_remnant
+[03:04:52] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[03:05:17] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:bastion_remnant
+[03:05:17] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[03:05:38] [Server thread/INFO]: Luis512MC issued server command: /locate structure minecraft:bastion_remnant
+[03:05:38] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 107 ms
+[03:06:58] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:06:58] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
+[03:07:06] [Server thread/INFO]: Luis512MC issued server command: /gamemode spectator
+[03:07:06] [Server thread/INFO]: [Luis512MC: Set own game mode to Spectator Mode]
+[03:07:10] [Server thread/INFO]: Luis512MC issued server command: /gamemode survival
+[03:07:10] [Server thread/INFO]: [Luis512MC: Set own game mode to Survival Mode]
