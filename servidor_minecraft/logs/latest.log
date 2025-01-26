@@ -171,3 +171,50 @@
 [04:43:23] [Server thread/INFO]: Luis512MC[/127.247.198.178:46597] logged in with entity id 2410 at ([world]1273.817751097579, -17.5, -421.8903703477963)
 [04:44:23] [Server thread/WARN]: Luis512MC moved wrongly!
 [04:46:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Luis512MC> wwwwwwwwwwww
+[04:54:48] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[04:54:48] [Server thread/INFO]: Luis512MC left the game
+[04:54:52] [Server thread/INFO]: Stopping the server
+[04:54:52] [Server thread/INFO]: Stopping server
+[04:54:52] [Server thread/INFO]: [RealRegions] Disabling RealRegions v0.7.4
+[04:54:52] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[04:54:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[04:54:52] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.5.1-SNAPSHOT
+[04:54:52] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:54:52] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:54:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9-beta-01+e8aa544
+[04:54:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:54:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[04:54:52] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:54:52] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[04:54:52] [Server thread/INFO]: Saving players
+[04:54:52] [Server thread/INFO]: Saving worlds
+[04:54:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:54:52] [WebSocketConnectReadThread-103/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 89 block chunks, 175 entity chunks, 0 poi chunks in world 'world' in 0.17s
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world'
+[04:54:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[04:54:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[04:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:54:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:54:52] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[04:54:52] [Server thread/INFO]: All I/O tasks to complete
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[04:54:52] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
