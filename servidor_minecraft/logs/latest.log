@@ -144,3 +144,30 @@
 [03:09:42] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [03:09:46] [Server thread/INFO]: Luis512MC joined the game
 [03:09:46] [Server thread/INFO]: Luis512MC[/127.247.198.178:43757] logged in with entity id 744 at ([world]1246.3277944798965, -21.0, -422.0738749060307)
+[03:12:55] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:12:55] [Server thread/INFO]: Luis512MC left the game
+[03:13:31] [User Authenticator #3/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:13:39] [Server thread/INFO]: Luis512MC joined the game
+[03:13:39] [Server thread/INFO]: Luis512MC[/127.247.198.178:57847] logged in with entity id 1205 at ([world]1256.040625559977, -22.0, -453.0425252394195)
+[03:15:11] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:15:11] [Server thread/INFO]: Luis512MC left the game
+[03:15:22] [User Authenticator #4/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:15:25] [Server thread/INFO]: Luis512MC joined the game
+[03:15:25] [Server thread/INFO]: Luis512MC[/127.247.198.178:45261] logged in with entity id 1478 at ([world]1256.040625559977, -22.0, -453.0425252394195)
+[03:16:32] [Server thread/INFO]: Luis512MC hit the ground too hard
+[03:16:38] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:16:38] [Server thread/INFO]: Luis512MC left the game
+[03:16:57] [User Authenticator #5/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:17:02] [Server thread/INFO]: Luis512MC joined the game
+[03:17:02] [Server thread/INFO]: Luis512MC[/127.247.198.178:37851] logged in with entity id 1742 at ([world]1233.300000011921, -35.0, -452.69999998807907)
+[03:19:03] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:19:03] [Server thread/INFO]: Luis512MC left the game
+[03:19:11] [User Authenticator #6/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:19:17] [Server thread/INFO]: Luis512MC joined the game
+[03:19:17] [Server thread/INFO]: Luis512MC[/127.247.198.178:42753] logged in with entity id 2073 at ([world]1249.300000011921, -23.151499194368267, -418.40901418382026)
+[03:19:57] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:19:57] [Server thread/INFO]: Luis512MC left the game
+[03:20:25] [User Authenticator #7/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:20:27] [Server thread/INFO]: Luis512MC joined the game
+[03:20:27] [Server thread/INFO]: Luis512MC[/127.247.198.178:37665] logged in with entity id 2270 at ([world]1249.300000011921, -23.94497539827137, -418.40901418382026)
+[03:21:14] [Server thread/INFO]: [AngelChest] Luis512MC opened the AngelChest of Luis512MC at Location{world=CraftWorld{name=world},x=1233.0,y=-35.0,z=-453.0,pitch=0.0,yaw=0.0}
