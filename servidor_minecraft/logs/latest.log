@@ -141,3 +141,19 @@
 [05:04:08] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [05:04:12] [Server thread/INFO]: Luis512MC joined the game
 [05:04:12] [Server thread/INFO]: Luis512MC[/127.247.198.178:43579] logged in with entity id 1060 at ([world]1249.2106319232755, -29.4375, -421.4208794368835)
+[05:13:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Luis512MC> sali
+[05:13:44] [Async Chat Thread - #3/INFO]: [Not Secure] <Luis512MC> de la mina
+[05:17:39] [localSession-7-2/INFO]: [Geyser-Spigot] CrashBlock73577 has disconnected from the Java server because of Bedrock client timed out
+[05:17:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 disconnected
+[05:17:39] [Server thread/INFO]: .CrashBlock73577 lost connection: Disconnected
+[05:17:39] [Server thread/INFO]: .CrashBlock73577 left the game
+[05:18:38] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[05:18:38] [Server thread/INFO]: Luis512MC left the game
+[05:19:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:20:29] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username CrashBlock73577
+[05:20:29] [localSession-7-3/INFO]: [Geyser-Spigot] CrashBlock73577 (logged in as: CrashBlock73577) has connected to the Java server
+[05:20:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .CrashBlock73577 joined (UUID: 00000000-0000-0000-0009-01f00bc69dfd)
+[05:20:29] [Server thread/INFO]: .CrashBlock73577 joined the game
+[05:20:29] [Server thread/INFO]: .CrashBlock73577[/127.0.0.1:0] logged in with entity id 5562 at ([world]1695.7562, 128.0, -687.69366)
+[05:22:10] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
+[05:22:11] [Server thread/WARN]: .CrashBlock73577 moved wrongly!
