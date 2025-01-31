@@ -175,3 +175,6 @@
 [05:32:35] [User Authenticator #2/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
 [05:32:37] [Server thread/INFO]: Luis512MC joined the game
 [05:32:37] [Server thread/INFO]: Luis512MC[/127.247.198.178:58233] logged in with entity id 7790 at ([world]1733.24885259108, 80.0, -350.69999998807907)
+[05:35:33] [Server thread/WARN]: .CrashBlock73577 moved too quickly! 12.1099999999999,1.0,-0.7978500000000395
+[05:35:33] [Server thread/WARN]: .CrashBlock73577 moved too quickly! 12.104700000000093,1.0,-0.7990000000000919
+[05:35:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
