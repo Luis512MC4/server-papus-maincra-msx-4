@@ -142,3 +142,26 @@
 [03:32:09] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [03:32:09] [Server thread/INFO]: [AngelChest] ========================================================
 [03:33:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:46:55] [User Authenticator #0/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:46:59] [Server thread/INFO]: Luis512MC joined the game
+[03:46:59] [Server thread/INFO]: Luis512MC[/127.247.198.178:60361] logged in with entity id 11 at ([world]1711.0380108327333, 128.0, -631.4168609530776)
+[03:48:55] [Server thread/INFO]: Luis512MC lost connection: Timed out
+[03:48:55] [Server thread/INFO]: Luis512MC left the game
+[03:49:45] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:49:47] [Server thread/INFO]: Luis512MC joined the game
+[03:49:47] [Server thread/INFO]: Luis512MC[/127.247.198.178:33569] logged in with entity id 566 at ([world_nether]221.90224085710565, 90.0, -76.5)
+[03:50:33] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:50:33] [Server thread/INFO]: Luis512MC left the game
+[03:50:39] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:50:41] [Server thread/INFO]: Luis512MC joined the game
+[03:50:41] [Server thread/INFO]: Luis512MC[/127.247.198.178:60803] logged in with entity id 687 at ([world_nether]145.46289235775427, 70.65, -68.5)
+[03:51:07] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:51:07] [Server thread/INFO]: Luis512MC left the game
+[03:51:15] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:51:17] [Server thread/INFO]: Luis512MC joined the game
+[03:51:17] [Server thread/INFO]: Luis512MC[/127.247.198.178:36691] logged in with entity id 901 at ([world_nether]27.170012939142033, 70.65, -22.5)
+[03:51:28] [Server thread/INFO]: Luis512MC lost connection: Disconnected
+[03:51:28] [Server thread/INFO]: Luis512MC left the game
+[03:51:34] [User Authenticator #1/INFO]: UUID of player Luis512MC is 5481e4e4-6be3-3172-8677-4830fb8a2f43
+[03:51:36] [Server thread/INFO]: Luis512MC joined the game
+[03:51:36] [Server thread/INFO]: Luis512MC[/127.247.198.178:43077] logged in with entity id 932 at ([world_nether]27.5, 71.0, -22.5)
